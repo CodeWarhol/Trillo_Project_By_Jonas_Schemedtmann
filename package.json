@@ -1,0 +1,8 @@
+{
+  "name": "Trillo_Project_By_Jonas_Schemedtmann",
+  "private": true,
+  "dependencies": {
+    "bootstrap": "3.4.0",
+    "jquery": "^3.3.1"
+  }
+}
